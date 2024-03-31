@@ -1,0 +1,6 @@
+tmp\
+*_old
+*_backup
+*\thumbs.db
+.DS.Store
+*\.DS.Store
